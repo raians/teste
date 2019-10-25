@@ -1,0 +1,20 @@
+html, body{
+	font-family: 'Raleway', sans-serif;
+	height: 100%;
+}
+body{
+	display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.meio{
+	position: relative;
+	top: 6px;
+	margin-right: 20px;
+}
+p{
+	position: relative;
+	line-height: 1px;
+	text-align: center;
+}
